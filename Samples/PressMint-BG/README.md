@@ -2,13 +2,13 @@
 
 ## Data source
 
-The source of the PressMint-BG corpus will be ...
+The source of the PressMint-BG corpus will be National Library "Ivan Vazov" - Plovdiv
 
 ### Details of the source:
 
-* __Source__: 
+* __Source__: searchable PDF
 
-* __Availability__: 
+* __Availability__: available
 
 * __Content__: 
 
@@ -29,9 +29,10 @@ The source of the PressMint-BG corpus will be ...
     
 * __Format__: 
 
-* __Facsimile__:
+* __Facsimile__: yes
 
 ## Conversion plan
 
-For the PressMint-BG corpus we plan to:
+For the PressMint-BG corpus we plan to:![Bulgarsko Tsarstvo 63 3-14 br051 0226](https://github.com/user-attachments/assets/49bf7889-c8d4-41fb-ae2b-0ab1f0e5dcef)
+
 
